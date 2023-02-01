@@ -1,3 +1,2 @@
 # nfinite-Matrix-Game
-BluePrint Code
-video links:
+video links:https://youtu.be/Cg94MldvN4U
